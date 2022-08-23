@@ -1,0 +1,3 @@
+MINIMUM_CERTAINTY = 0.5
+GREEN = (0, 255, 0)
+RED = (0, 0, 255)
